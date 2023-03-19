@@ -12,8 +12,8 @@ In my spare time I train a lot and try to improve myself in all aspects.
 
 Those are just the statistics of my github public profile:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColonniGiovanni&show_icons=true&theme=radical)
 
 And my Languages are:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniColonni&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColonniGiovanni&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
