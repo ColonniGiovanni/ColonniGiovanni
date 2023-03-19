@@ -1,4 +1,4 @@
-![Top](./assets/githome.jpg)
+![Top](githome.jpg)
 
 I always feel hard to define myself in particular from the professional point of view. From the last years I always work in crypto project, one of them is operative in the Polygon mainnet. I program in Solidity and I'm interesting in Web3 oriented system such as Blockchain, IPFS and smart contract.
 
